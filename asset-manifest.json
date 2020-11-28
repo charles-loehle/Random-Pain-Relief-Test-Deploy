@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Random-Pain-Relief-Test-Deploy/static/css/main.f3685c61.chunk.css",
+    "main.js": "/Random-Pain-Relief-Test-Deploy/static/js/main.c965724c.chunk.js",
+    "main.js.map": "/Random-Pain-Relief-Test-Deploy/static/js/main.c965724c.chunk.js.map",
+    "runtime-main.js": "/Random-Pain-Relief-Test-Deploy/static/js/runtime-main.89315e69.js",
+    "runtime-main.js.map": "/Random-Pain-Relief-Test-Deploy/static/js/runtime-main.89315e69.js.map",
+    "static/js/2.14b9b179.chunk.js": "/Random-Pain-Relief-Test-Deploy/static/js/2.14b9b179.chunk.js",
+    "static/js/2.14b9b179.chunk.js.map": "/Random-Pain-Relief-Test-Deploy/static/js/2.14b9b179.chunk.js.map",
+    "static/js/3.5bc6e973.chunk.js": "/Random-Pain-Relief-Test-Deploy/static/js/3.5bc6e973.chunk.js",
+    "static/js/3.5bc6e973.chunk.js.map": "/Random-Pain-Relief-Test-Deploy/static/js/3.5bc6e973.chunk.js.map",
+    "index.html": "/Random-Pain-Relief-Test-Deploy/index.html",
+    "static/css/main.f3685c61.chunk.css.map": "/Random-Pain-Relief-Test-Deploy/static/css/main.f3685c61.chunk.css.map",
+    "static/js/2.14b9b179.chunk.js.LICENSE.txt": "/Random-Pain-Relief-Test-Deploy/static/js/2.14b9b179.chunk.js.LICENSE.txt",
+    "static/media/3-pos-toe-raises-1.464e9165.png": "/Random-Pain-Relief-Test-Deploy/static/media/3-pos-toe-raises-1.464e9165.png",
+    "static/media/3-pos-toe-raises-2.d4faea2d.png": "/Random-Pain-Relief-Test-Deploy/static/media/3-pos-toe-raises-2.d4faea2d.png",
+    "static/media/abcrunches.831502df.png": "/Random-Pain-Relief-Test-Deploy/static/media/abcrunches.831502df.png",
+    "static/media/abd-add-w-feet-close.64cfe9e0.png": "/Random-Pain-Relief-Test-Deploy/static/media/abd-add-w-feet-close.64cfe9e0.png",
+    "static/media/active-bridge-w-strap.ad419dfd.png": "/Random-Pain-Relief-Test-Deploy/static/media/active-bridge-w-strap.ad419dfd.png",
+    "static/media/airbench.96ef32a9.png": "/Random-Pain-Relief-Test-Deploy/static/media/airbench.96ef32a9.png",
+    "static/media/assisted-hip-lift.88167bf1.png": "/Random-Pain-Relief-Test-Deploy/static/media/assisted-hip-lift.88167bf1.png",
+    "static/media/c&d1.0a717c2a.png": "/Random-Pain-Relief-Test-Deploy/static/media/c&d1.0a717c2a.png",
+    "static/media/c&d2.420e2a6c.png": "/Random-Pain-Relief-Test-Deploy/static/media/c&d2.420e2a6c.png",
+    "static/media/childspose.c92f82bd.png": "/Random-Pain-Relief-Test-Deploy/static/media/childspose.c92f82bd.png",
+    "static/media/base.css": "/Random-Pain-Relief-Test-Deploy/static/media/downward-dog-landing.52941e25.jpg",
+    "static/media/standing-arm-circles-palms-up.f07e590c.png": "/Random-Pain-Relief-Test-Deploy/static/media/standing-arm-circles-palms-up.f07e590c.png",
+    "static/media/standing-arm-circles.97f02b78.png": "/Random-Pain-Relief-Test-Deploy/static/media/standing-arm-circles.97f02b78.png",
+    "static/media/standing-ohe.74c65e9c.png": "/Random-Pain-Relief-Test-Deploy/static/media/standing-ohe.74c65e9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89315e69.js",
+    "static/js/2.14b9b179.chunk.js",
+    "static/css/main.f3685c61.chunk.css",
+    "static/js/main.c965724c.chunk.js"
+  ]
+}
