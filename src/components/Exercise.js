@@ -23,7 +23,7 @@ const Exercise = () => {
     <div className="Exercise margin-top-2">
       <div className="exercise-button-container text-center">
         <button className="btn btn-primary" onClick={handleClick}>
-          Click for a random Exercise
+          Click For A Random Exercise
         </button>
       </div>
       {image2 ? (
